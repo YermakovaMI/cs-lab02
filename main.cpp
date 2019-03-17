@@ -11,17 +11,17 @@ int main()
     cout << "A - B = " << a - b << '\n';
     cout << "A * B = " << a * b << '\n';
     cout << "A / B = " << a / b << '\n';
-<<<<<<< HEAD
+
      if (A<B)
      {
          cout << A
      }
-                 else cout << B
-=======
+     else cout << B
+
      if (A>B)
        {
            cout << A
        }
-            else cout << B;
+     else cout << B;
     return 0;
 }
