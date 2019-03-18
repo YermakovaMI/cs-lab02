@@ -21,7 +21,7 @@ int main()
 
      if (A>B)
        {
-           cout << A
+           cout << "max: " << A
        }
      else cout << B;
     return 0;
